@@ -1,0 +1,103 @@
+{
+  "success" : true,
+  "data" : {
+       "articleList" : [{
+       "id" : 1,
+       "imgUrl" : "https://upload-images.jianshu.io/upload_images/5877176-6c90a49be2e53693.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240",
+       "title" : "目标量化🎯到底是量化什么❓",
+       "desc" : "制定目标的SMART原则 S代表具体(Specific)，M代表可度量(Measurable)，A代表可实现(Attainable)，R代表现实...",
+       "reading" : 174.2,
+       "writer" : "思维导图实战派_汪志鹏",
+       "comment" : 17,
+       "like" : 206
+     },{
+       "id" : 2,
+       "imgUrl" : "https://upload-images.jianshu.io/upload_images/7789029-e969c6ea4aac6397.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240",
+       "title" : "为什么要努力？被这个答案虐哭了",
+       "desc" : "1.为什么越努力越迷茫？ 工作上，不知道自己擅长什么，不知道自己热爱什么，不知道职业规划，没有未来的打算，不知道现在这份工作还要做多久，...",
+       "reading" : 19.7,
+       "writer" : "逆光奔跑_8a41",
+       "comment" : 18,
+       "like" : 167
+     },{
+       "id" : 3,
+       "imgUrl" : "https://upload-images.jianshu.io/upload_images/14603954-e5e41d27b0dbba43?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240",
+       "title" : "推荐6个适合大学生的公众号清单",
+       "desc" : "在这个网络盛行的时代，在空闲时间刷微信公众号的内容资讯似乎成了人们的习惯。各类娱乐八卦、情感励志，时政新闻、潮流资讯充盈着人们的大脑乃至心灵。而...",
+       "reading" : 9.5,
+       "writer" : "深夜诗人liangcheng",
+       "comment" : 6,
+       "like" : 179    
+     },{
+       "id" : 4,
+       "imgUrl" : "https://upload-images.jianshu.io/upload_images/15776993-a1f7195a1279f38c?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240",
+       "title" : "七年程序员炫耀：阿里跳槽拼多多，80万涨到160万！值不值得去？",
+       "desc" : "现在有很多的人都想要拥有一份自己满意的，还要有前途的，或者是工资高的，但是还不累的。一名阿里的程序员在互联网社区交流跳槽心得时，文字间透着一股炫...",
+       "reading" : "10.1",
+       "writer" : "大山里的前端攻城狮",
+       "comment" : 1,
+       "like" : 11
+     }],
+    "writerinformation" : [{
+      "id" : 0,
+      "nickname" : "茶点故事",
+      "total_like_count" : 7393,
+      "total_wordage" : 190697, 
+      "avatar" : "https://upload.jianshu.io/users/upload_avatars/4790772/388e473c-fe2f-40e0-9301-e357ae8f1b41.jpeg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp"
+    },{
+      "id" : 1,
+      "nickname" : "无限猴子",
+      "total_like_count" : 1877,
+      "total_wordage" : 338027,
+      "avatar" : "https://upload.jianshu.io/users/upload_avatars/13213889/7314c5cc-ca7f-4542-b914-2c8dffaf324d.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp"
+    },{
+      "id" : 2,
+      "nickname" : "阿栈",
+      "total_like_count" : 1361,
+      "total_wordage" : 449485,
+      "avatar" : "https://upload.jianshu.io/users/upload_avatars/2558050/7761b285-2805-4534-9870-ba7dcc7538ec.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp"
+    },{
+      "id" : 3,
+      "nickname" : "简书大学堂",
+      "total_like_count" : 33040,
+      "total_wordage" : 1498613,
+      "avatar" : "https://upload.jianshu.io/users/upload_avatars/3627484/eb973bb9-37ba-4d07-acec-850c0a66d1bb.png?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp"
+    },{
+      "id" : 4,
+      "nickname" : "北美之北",
+      "total_like_count" : 28873,
+      "total_wordage" : 403535,
+      "avatar" : "https://upload.jianshu.io/users/upload_avatars/3292545/78f2855a-80fd-419a-9fb2-1aeed39690f0.png?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp"
+    },{
+      "id" : 5,
+      "nickname" : "梅拾璎",
+      "total_like_count" : 24319,
+      "total_wordage" : 255434,
+      "avatar" : "https://upload.jianshu.io/users/upload_avatars/3136195/484e32c3504a.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp"
+    },{
+      "id" : 6,
+      "nickname" : "冰千里",
+      "total_like_count" : 8557,
+      "total_wordage" :482058,
+      "avatar" : "https://upload.jianshu.io/users/upload_avatars/8972166/2a0fb78d-6417-47cb-a57c-2ce4a7b92609.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp"
+    },{
+      "id" : 7,
+      "nickname" : "只有一半影子的人",
+      "total_like_count" : 1216,
+      "total_wordage" : 255992,
+      "avatar" : "https://upload.jianshu.io/users/upload_avatars/6305091/dc5b863a-26fc-47df-af32-18177f6cc9ff.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp"
+    },{
+      "id" : 8,
+      "nickname" : "三儿王屿",
+      "total_like_count" : 3258,
+      "total_wordage" : 213834,
+      "avatar" : "https://upload.jianshu.io/users/upload_avatars/3950651/acfaa0ce-42fe-424a-b7c8-9a0136fb96ec.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp"
+    },{
+      "id" : 9,
+      "nickname" : "徐林Grace",
+      "total_like_count" : 6144,
+      "total_wordage" : 666836,
+      "avatar" : "https://upload.jianshu.io/users/upload_avatars/5545154/1a3d5ed6-9ad1-44b3-9457-3e6a29dd1b71.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp"
+    }]
+  }
+}
